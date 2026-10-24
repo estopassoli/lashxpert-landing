@@ -29,10 +29,10 @@ document.querySelectorAll('.revenue-results-window').forEach(resultsViewport => 
   motionPreference.addEventListener('change', stopResults);
 });
 
-// Exibe a chamada fixa somente depois de passar pelo botão principal.
+// Exibe a chamada fixa somente depois de passar pela seção inicial.
 function setupFloatingEnrollment() {
   const floating = document.querySelector('.floating-enrollment');
-  const form = document.getElementById('whatsapp-enrollment');
+  const form = document.getElementById('lista-de-espera');
   if (!floating || !form) return;
   let scheduled = false;
   const update = () => {
