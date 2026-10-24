@@ -19,7 +19,7 @@
   if (menu.hidden) return;
   if (event.key === 'Escape') { setOpen(false); button.focus(); }
   if (event.key === 'Tab') {
-   const targets = [...header.querySelectorAll('a[href],button')];
+   const targets = [...header.querySelectorAll('a[href],button:not(:disabled)')];
    const first = targets[0], last = targets[targets.length - 1];
    if (event.shiftKey && document.activeElement === first) { event.preventDefault(); last.focus(); }
    else if (!event.shiftKey && document.activeElement === last) { event.preventDefault(); first.focus(); }

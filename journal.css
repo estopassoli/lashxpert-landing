@@ -223,3 +223,21 @@ html.menu-open,html.menu-open body{overflow:hidden}
 
 /* Fundo externo com acabamento prateado escovado. */
 body{background-color:#c7cbd1;background-image:repeating-linear-gradient(105deg,rgba(255,255,255,.1) 0,rgba(255,255,255,.1) 1px,rgba(90,98,110,.035) 1px,rgba(90,98,110,.035) 3px),linear-gradient(115deg,#aeb5bf 0%,#e4e7ec 16%,#f7f8fa 27%,#c0c6cf 43%,#eef0f4 60%,#b0b8c3 78%,#e0e4ea 100%);background-attachment:fixed}
+
+/* Menu editorial: destinos claros, hierarquia e espaços equilibrados. */
+.menu-open .site-header{background:linear-gradient(145deg,rgba(249,250,252,.88),rgba(225,231,239,.79));backdrop-filter:blur(24px) saturate(90%);-webkit-backdrop-filter:blur(24px) saturate(90%)}
+.menu-open .header-menu{flex:0 0 auto;width:min(100%,640px);padding-top:clamp(32px,7vh,72px);gap:0}
+.menu-eyebrow{font:10px/1.5 Arial,sans-serif;text-transform:uppercase;letter-spacing:.2em;color:#647386;margin:0 12px 18px}
+.menu-open .header-menu>a:not(.member-access){display:flex;align-items:center;justify-content:space-between;gap:20px;padding:24px 12px;border-bottom:1px solid #69798d2b;border-radius:0;transition:background .2s,color .2s}
+.menu-link-copy{display:flex;flex-direction:column;gap:7px}
+.menu-link-copy strong{font-family:Agency,Arial,sans-serif;font-weight:400;font-size:clamp(27px,4vw,36px);letter-spacing:-.025em;line-height:1.15}
+.menu-link-copy small{font:13px/1.5 Arial,sans-serif;color:#626f7f}
+.menu-link-arrow{font:24px/1 Arial,sans-serif;color:#738094}
+.menu-open .header-menu>a[aria-current="page"]{color:#074c72}
+.menu-open .header-menu>a[aria-current="page"] .menu-link-arrow{color:#087b99}
+.menu-open .header-menu>a:not(.member-access):hover{background:#ffffff45;color:#075a80}
+.menu-open .header-menu a.member-access{margin-top:36px;font-size:17px;min-height:58px}
+@media(max-height:650px){.menu-open .header-menu{padding-top:16px;padding-bottom:20px}.menu-open .header-menu>a:not(.member-access){padding-block:14px}.menu-open .header-menu a.member-access{margin-top:20px}}
+@media(prefers-reduced-motion:reduce){.menu-open .header-menu>a{transition:none}}
+
+.menu-open .header-menu .menu-tour{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:24px 12px;border:0;border-bottom:1px solid #69798d2b;border-radius:0;background:transparent;text-align:left;color:#626f7f;width:100%;opacity:1;cursor:default}.menu-tour .menu-link-arrow{opacity:.5}@media(max-height:650px){.menu-open .header-menu .menu-tour{padding-block:14px}}
