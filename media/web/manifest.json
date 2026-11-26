@@ -1,0 +1,1765 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-26T14:07:56.648Z",
+  "encoder": "sharp 0.34.5",
+  "quality": {
+    "card": 84,
+    "photograph": 85,
+    "logo": "lossless"
+  },
+  "metrics": {
+    "uniqueSourceCount": 48,
+    "imgUniqueSourceCount": 47,
+    "imgUsageCount": 50,
+    "outputVariantCount": 139,
+    "originalUniqueBytes": 63822116,
+    "smallestVariantsBytes": 608864,
+    "largestVariantsBytes": 2486874,
+    "defaultVariantsBytes": 1484760,
+    "allVariantsBytes": 4538906,
+    "defaultReductionPercent": 97.67
+  },
+  "images": [
+    {
+      "source": "./media/lashxpert-logo-oficial.png",
+      "role": "logo",
+      "usageCount": 4,
+      "original": {
+        "width": 4282,
+        "height": 856,
+        "bytes": 85364,
+        "format": "png",
+        "hasAlpha": true,
+        "sha256": "d0ad8acf1f47e807fc5115cbcd4434e79f37a7f4d773deb1e6dd16c3c917af9a"
+      },
+      "variants": [
+        {
+          "width": 512,
+          "height": 102,
+          "path": "./media/web/logo-lashxpert-logo-oficial-512.webp",
+          "bytes": 9894,
+          "hasAlpha": true
+        }
+      ],
+      "defaultPath": "./media/web/logo-lashxpert-logo-oficial-512.webp"
+    },
+    {
+      "source": "./media/optimized/formacao-abertura-restaurada.jpg",
+      "role": "hero",
+      "usageCount": 1,
+      "original": {
+        "width": 1600,
+        "height": 900,
+        "bytes": 393678,
+        "format": "jpeg",
+        "hasAlpha": false,
+        "sha256": "fbc31f443668ad6162d3b391d29e94336874df1fd1702243a6fe5e6871bd979b"
+      },
+      "variants": [
+        {
+          "width": 640,
+          "height": 360,
+          "path": "./media/web/optimized-formacao-abertura-restaurada-640.webp",
+          "bytes": 50328,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 540,
+          "path": "./media/web/optimized-formacao-abertura-restaurada-960.webp",
+          "bytes": 88440,
+          "hasAlpha": false
+        },
+        {
+          "width": 1280,
+          "height": 720,
+          "path": "./media/web/optimized-formacao-abertura-restaurada-1280.webp",
+          "bytes": 129576,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/optimized-formacao-abertura-restaurada-960.webp"
+    },
+    {
+      "source": "./media/lashxpert-app-intro.png",
+      "role": "app-intro",
+      "usageCount": 1,
+      "original": {
+        "width": 1596,
+        "height": 888,
+        "bytes": 1420862,
+        "format": "png",
+        "hasAlpha": true,
+        "sha256": "8d31a5582f8dbe8a878457b98de11b0409bf058c3b78b9b622e70375fd63c7ea"
+      },
+      "variants": [
+        {
+          "width": 480,
+          "height": 267,
+          "path": "./media/web/app-intro-lashxpert-app-intro-480.webp",
+          "bytes": 25522,
+          "hasAlpha": false
+        },
+        {
+          "width": 800,
+          "height": 445,
+          "path": "./media/web/app-intro-lashxpert-app-intro-800.webp",
+          "bytes": 59326,
+          "hasAlpha": false
+        },
+        {
+          "width": 1200,
+          "height": 668,
+          "path": "./media/web/app-intro-lashxpert-app-intro-1200.webp",
+          "bytes": 101658,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/app-intro-lashxpert-app-intro-800.webp"
+    },
+    {
+      "source": "./media/optimized/anatomia-e-fisiologia.jpg",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1100,
+        "height": 1600,
+        "bytes": 253843,
+        "format": "jpeg",
+        "hasAlpha": false,
+        "sha256": "12c334f54bbe993348a41248d18f1e4f2c42de0164a3e43637e500188f05db46"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 465,
+          "path": "./media/web/optimized-anatomia-e-fisiologia-320.webp",
+          "bytes": 18894,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 931,
+          "path": "./media/web/optimized-anatomia-e-fisiologia-640.webp",
+          "bytes": 44940,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 1396,
+          "path": "./media/web/optimized-anatomia-e-fisiologia-960.webp",
+          "bytes": 68626,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/optimized-anatomia-e-fisiologia-640.webp"
+    },
+    {
+      "source": "./media/optimized/tricologia-ciliar.jpg",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1100,
+        "height": 1600,
+        "bytes": 81725,
+        "format": "jpeg",
+        "hasAlpha": false,
+        "sha256": "c6cb9b11a54cadf801b3c772dec014e37d7e56b83bb1f68b5d7eb25b3f76b252"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 465,
+          "path": "./media/web/optimized-tricologia-ciliar-320.webp",
+          "bytes": 5964,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 931,
+          "path": "./media/web/optimized-tricologia-ciliar-640.webp",
+          "bytes": 12142,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 1396,
+          "path": "./media/web/optimized-tricologia-ciliar-960.webp",
+          "bytes": 18062,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/optimized-tricologia-ciliar-640.webp"
+    },
+    {
+      "source": "./media/optimized/quimica-do-adesivo.jpg",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1100,
+        "height": 1600,
+        "bytes": 78330,
+        "format": "jpeg",
+        "hasAlpha": false,
+        "sha256": "75844f5618417442660b938cd1fbf8f15eacd0d0d1e2bc881739c1799c1321ee"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 465,
+          "path": "./media/web/optimized-quimica-do-adesivo-320.webp",
+          "bytes": 5972,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 931,
+          "path": "./media/web/optimized-quimica-do-adesivo-640.webp",
+          "bytes": 11332,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 1396,
+          "path": "./media/web/optimized-quimica-do-adesivo-960.webp",
+          "bytes": 17364,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/optimized-quimica-do-adesivo-640.webp"
+    },
+    {
+      "source": "./media/optimized/interacao-quimica.jpg",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1100,
+        "height": 1600,
+        "bytes": 116390,
+        "format": "jpeg",
+        "hasAlpha": false,
+        "sha256": "7b9934fe55e0b122efbf6070710fa9a240aecd1cb593542a6293074b78983b31"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 465,
+          "path": "./media/web/optimized-interacao-quimica-320.webp",
+          "bytes": 7910,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 931,
+          "path": "./media/web/optimized-interacao-quimica-640.webp",
+          "bytes": 17152,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 1396,
+          "path": "./media/web/optimized-interacao-quimica-960.webp",
+          "bytes": 27512,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/optimized-interacao-quimica-640.webp"
+    },
+    {
+      "source": "./media/optimized/seguranca-e-esterilizacao.jpg",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1100,
+        "height": 1600,
+        "bytes": 302093,
+        "format": "jpeg",
+        "hasAlpha": false,
+        "sha256": "1ab182d49065ef1022035478298da8b86111465498070836d7a5117191d30cea"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 465,
+          "path": "./media/web/optimized-seguranca-e-esterilizacao-320.webp",
+          "bytes": 24604,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 931,
+          "path": "./media/web/optimized-seguranca-e-esterilizacao-640.webp",
+          "bytes": 64334,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 1396,
+          "path": "./media/web/optimized-seguranca-e-esterilizacao-960.webp",
+          "bytes": 103390,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/optimized-seguranca-e-esterilizacao-640.webp"
+    },
+    {
+      "source": "./media/trilhas/base-fundamento.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 895156,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "60d9937367777159c237a8fcc939e44f6a8d4890057bf717f9ab21967a80a0f1"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-base-fundamento-320.webp",
+          "bytes": 7760,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-base-fundamento-640.webp",
+          "bytes": 16538,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-base-fundamento-960.webp",
+          "bytes": 27308,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-base-fundamento-640.webp"
+    },
+    {
+      "source": "./media/trilhas/base-classico.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 317057,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "2e1db04a021ca03be7992d5318c290275a26fc4d1dfc5d53e152f9dcecd3a64d"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-base-classico-320.webp",
+          "bytes": 5264,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-base-classico-640.webp",
+          "bytes": 12490,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-base-classico-960.webp",
+          "bytes": 19972,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-base-classico-640.webp"
+    },
+    {
+      "source": "./media/trilhas/base-tecnologico.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 194088,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "4a110fe0f3a9474ba9fcade3b853087357433cc2518062d01aebb4d96531dfae"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-base-tecnologico-320.webp",
+          "bytes": 5334,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-base-tecnologico-640.webp",
+          "bytes": 11510,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-base-tecnologico-960.webp",
+          "bytes": 17194,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-base-tecnologico-640.webp"
+    },
+    {
+      "source": "./media/trilhas/base-capping.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 142108,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "ba6c3ffdbfe3d71dbcb8b23b4085d021d6f8f3aee131372a7710d05575ab0f96"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-base-capping-320.webp",
+          "bytes": 4146,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-base-capping-640.webp",
+          "bytes": 8552,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-base-capping-960.webp",
+          "bytes": 13354,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-base-capping-640.webp"
+    },
+    {
+      "source": "./media/trilhas/base-spike.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 191383,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "c8ca44cdf54621cdd27d8347ea7caa6d0a7203a8e85029a4d44c7623b7f1a8b8"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-base-spike-320.webp",
+          "bytes": 4054,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-base-spike-640.webp",
+          "bytes": 8192,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-base-spike-960.webp",
+          "bytes": 12716,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-base-spike-640.webp"
+    },
+    {
+      "source": "./media/trilhas/base-russo.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 116398,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "9a8bf095ac0ef7b2d301dbe5414de2277e0f9414ead114b600f97bd1def04427"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-base-russo-320.webp",
+          "bytes": 4190,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-base-russo-640.webp",
+          "bytes": 8608,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-base-russo-960.webp",
+          "bytes": 13498,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-base-russo-640.webp"
+    },
+    {
+      "source": "./media/trilhas/base-anime.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 160555,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "f48e548b3ac99f89fb59ad02fa0e7631fa437b2cdc60bc74bcc16e5fcf1f01e6"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-base-anime-320.webp",
+          "bytes": 3640,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-base-anime-640.webp",
+          "bytes": 6952,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-base-anime-960.webp",
+          "bytes": 10674,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-base-anime-640.webp"
+    },
+    {
+      "source": "./media/trilhas/teffy.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1600,
+        "height": 1200,
+        "bytes": 1161145,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "8ad2daf7cc507dbbfe7df8a50a597a3d2ed5bb4f46327a3355d6dc6529ac5742"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 240,
+          "path": "./media/web/trilhas-teffy-320.webp",
+          "bytes": 8190,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 480,
+          "path": "./media/web/trilhas-teffy-640.webp",
+          "bytes": 17746,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 720,
+          "path": "./media/web/trilhas-teffy-960.webp",
+          "bytes": 27036,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-teffy-640.webp"
+    },
+    {
+      "source": "./media/trilhas/led-uv.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1600,
+        "height": 1200,
+        "bytes": 1503153,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "991d093be611c2b80399048900fb2510bd8981442f31c5241ef944cc50e2a4e0"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 240,
+          "path": "./media/web/trilhas-led-uv-320.webp",
+          "bytes": 7578,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 480,
+          "path": "./media/web/trilhas-led-uv-640.webp",
+          "bytes": 18640,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 720,
+          "path": "./media/web/trilhas-led-uv-960.webp",
+          "bytes": 34488,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-led-uv-640.webp"
+    },
+    {
+      "source": "./media/trilhas/retencao-maxima.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1600,
+        "height": 1200,
+        "bytes": 1577306,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "2eb510aeaefab3725e225b07a60612da7b0eb11f388084c6f2fa1b896713649c"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 240,
+          "path": "./media/web/trilhas-retencao-maxima-320.webp",
+          "bytes": 7930,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 480,
+          "path": "./media/web/trilhas-retencao-maxima-640.webp",
+          "bytes": 17774,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 720,
+          "path": "./media/web/trilhas-retencao-maxima-960.webp",
+          "bytes": 29278,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-retencao-maxima-640.webp"
+    },
+    {
+      "source": "./media/optimized/instagram-magnetico.jpg",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1100,
+        "height": 1600,
+        "bytes": 174543,
+        "format": "jpeg",
+        "hasAlpha": false,
+        "sha256": "3eed1b3bad38767212ac9e8fcbf19e434e5839b16ebd6e1eb0d9e06480a53026"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 465,
+          "path": "./media/web/optimized-instagram-magnetico-320.webp",
+          "bytes": 11666,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 931,
+          "path": "./media/web/optimized-instagram-magnetico-640.webp",
+          "bytes": 27158,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 1396,
+          "path": "./media/web/optimized-instagram-magnetico-960.webp",
+          "bytes": 45554,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/optimized-instagram-magnetico-640.webp"
+    },
+    {
+      "source": "./media/optimized/indicacao-lucrativa.jpg",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1100,
+        "height": 1600,
+        "bytes": 256461,
+        "format": "jpeg",
+        "hasAlpha": false,
+        "sha256": "1f10bbec01f74ffbc20f4f1e34b6f1a36ac3c92e66c2dfe6516cd72ff8b2d5f8"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 465,
+          "path": "./media/web/optimized-indicacao-lucrativa-320.webp",
+          "bytes": 13796,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 931,
+          "path": "./media/web/optimized-indicacao-lucrativa-640.webp",
+          "bytes": 35832,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 1396,
+          "path": "./media/web/optimized-indicacao-lucrativa-960.webp",
+          "bytes": 75324,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/optimized-indicacao-lucrativa-640.webp"
+    },
+    {
+      "source": "./media/optimized/whatsapp-expert.jpg",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1100,
+        "height": 1600,
+        "bytes": 175431,
+        "format": "jpeg",
+        "hasAlpha": false,
+        "sha256": "abfbb51df3af7b11b0fd1d8e063c1a73466f43e1a9580e7c1c14aa12f8525d60"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 465,
+          "path": "./media/web/optimized-whatsapp-expert-320.webp",
+          "bytes": 11514,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 931,
+          "path": "./media/web/optimized-whatsapp-expert-640.webp",
+          "bytes": 26526,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 1396,
+          "path": "./media/web/optimized-whatsapp-expert-960.webp",
+          "bytes": 44560,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/optimized-whatsapp-expert-640.webp"
+    },
+    {
+      "source": "./media/campanhas-mensais.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1600,
+        "height": 1200,
+        "bytes": 1691431,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "6c0f99b330541e0d68844601288666d3748336cbb7d2793e3869682cefc029cf"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 240,
+          "path": "./media/web/card-campanhas-mensais-320.webp",
+          "bytes": 9288,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 480,
+          "path": "./media/web/card-campanhas-mensais-640.webp",
+          "bytes": 22260,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 720,
+          "path": "./media/web/card-campanhas-mensais-960.webp",
+          "bytes": 36860,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/card-campanhas-mensais-640.webp"
+    },
+    {
+      "source": "./media/formatos-criativos.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1600,
+        "height": 1200,
+        "bytes": 3221939,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "b1a4c36f69c2b9ffc8d0d7f1b74b157b71ae2d92ba770868b4147fe039e43711"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 240,
+          "path": "./media/web/card-formatos-criativos-320.webp",
+          "bytes": 12312,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 480,
+          "path": "./media/web/card-formatos-criativos-640.webp",
+          "bytes": 29524,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 720,
+          "path": "./media/web/card-formatos-criativos-960.webp",
+          "bytes": 49238,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/card-formatos-criativos-640.webp"
+    },
+    {
+      "source": "./media/trilhas/gestao-financeira.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1600,
+        "height": 1200,
+        "bytes": 2695199,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "1ddef7a17612a0ac13acade6b05680d2429879f836f9a72b56a7e4d5cc8a762c"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 240,
+          "path": "./media/web/trilhas-gestao-financeira-320.webp",
+          "bytes": 10606,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 480,
+          "path": "./media/web/trilhas-gestao-financeira-640.webp",
+          "bytes": 26952,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 720,
+          "path": "./media/web/trilhas-gestao-financeira-960.webp",
+          "bytes": 49432,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-gestao-financeira-640.webp"
+    },
+    {
+      "source": "./media/trilhas/gestao-de-agenda.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1600,
+        "height": 1200,
+        "bytes": 3051143,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "98eb6cd6276f3915ef0594996a4c8251e29e92db057450765a9a5f3ff5022c12"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 240,
+          "path": "./media/web/trilhas-gestao-de-agenda-320.webp",
+          "bytes": 12128,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 480,
+          "path": "./media/web/trilhas-gestao-de-agenda-640.webp",
+          "bytes": 30970,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 720,
+          "path": "./media/web/trilhas-gestao-de-agenda-960.webp",
+          "bytes": 57110,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-gestao-de-agenda-640.webp"
+    },
+    {
+      "source": "./media/trilhas/gestao-de-estoque.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1600,
+        "height": 1200,
+        "bytes": 2738993,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "f593a36f1ea21b0515b513287333b2b8f2a912ea6435033b213546f9d3ef7cb8"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 240,
+          "path": "./media/web/trilhas-gestao-de-estoque-320.webp",
+          "bytes": 11730,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 480,
+          "path": "./media/web/trilhas-gestao-de-estoque-640.webp",
+          "bytes": 28362,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 720,
+          "path": "./media/web/trilhas-gestao-de-estoque-960.webp",
+          "bytes": 48170,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-gestao-de-estoque-640.webp"
+    },
+    {
+      "source": "./media/aperfeicoamentos/mestre-em-camadas.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1100,
+        "height": 1600,
+        "bytes": 1117842,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "37fe18ea597c8749f2901ac2c3bd5e3ed6c69f602c65466ae8c391296b9f4410"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 465,
+          "path": "./media/web/aperfeicoamentos-mestre-em-camadas-320.webp",
+          "bytes": 12832,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 931,
+          "path": "./media/web/aperfeicoamentos-mestre-em-camadas-640.webp",
+          "bytes": 31952,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 1396,
+          "path": "./media/web/aperfeicoamentos-mestre-em-camadas-960.webp",
+          "bytes": 55804,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/aperfeicoamentos-mestre-em-camadas-640.webp"
+    },
+    {
+      "source": "./media/aperfeicoamentos/cilios-em-1-hora.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1100,
+        "height": 1600,
+        "bytes": 1322661,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "1fc2b9c1cb2cdc988491013fcc8954d29695931001f609da4e9c5d77c788b71b"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 465,
+          "path": "./media/web/aperfeicoamentos-cilios-em-1-hora-320.webp",
+          "bytes": 13044,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 931,
+          "path": "./media/web/aperfeicoamentos-cilios-em-1-hora-640.webp",
+          "bytes": 32302,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 1396,
+          "path": "./media/web/aperfeicoamentos-cilios-em-1-hora-960.webp",
+          "bytes": 56494,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/aperfeicoamentos-cilios-em-1-hora-640.webp"
+    },
+    {
+      "source": "./media/aperfeicoamentos/cilios-inferiores.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1100,
+        "height": 1600,
+        "bytes": 1335157,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "2def887501fa96bfcfd15912456a7b3d25ea6c8bb047687700d7f29425398c3a"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 465,
+          "path": "./media/web/aperfeicoamentos-cilios-inferiores-320.webp",
+          "bytes": 12442,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 931,
+          "path": "./media/web/aperfeicoamentos-cilios-inferiores-640.webp",
+          "bytes": 31186,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 1396,
+          "path": "./media/web/aperfeicoamentos-cilios-inferiores-960.webp",
+          "bytes": 54420,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/aperfeicoamentos-cilios-inferiores-640.webp"
+    },
+    {
+      "source": "./media/aperfeicoamentos/colorimetria-e-contraste.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1100,
+        "height": 1600,
+        "bytes": 1382211,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "083289051b98fb7bae0c0ffb6cd229fc8821bd80acf0a1b87479c7b8b8d3b924"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 465,
+          "path": "./media/web/aperfeicoamentos-colorimetria-e-contraste-320.webp",
+          "bytes": 16164,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 931,
+          "path": "./media/web/aperfeicoamentos-colorimetria-e-contraste-640.webp",
+          "bytes": 40134,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 1396,
+          "path": "./media/web/aperfeicoamentos-colorimetria-e-contraste-960.webp",
+          "bytes": 70434,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/aperfeicoamentos-colorimetria-e-contraste-640.webp"
+    },
+    {
+      "source": "./media/aperfeicoamentos/curvas-perfeitas.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1100,
+        "height": 1600,
+        "bytes": 1387834,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "93c5af26d273fe0390193e524175062b6a36150ecb59d2a8cac74641555264fc"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 465,
+          "path": "./media/web/aperfeicoamentos-curvas-perfeitas-320.webp",
+          "bytes": 13268,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 931,
+          "path": "./media/web/aperfeicoamentos-curvas-perfeitas-640.webp",
+          "bytes": 33788,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 1396,
+          "path": "./media/web/aperfeicoamentos-curvas-perfeitas-960.webp",
+          "bytes": 60664,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/aperfeicoamentos-curvas-perfeitas-640.webp"
+    },
+    {
+      "source": "./media/aperfeicoamentos/visagismo-expert.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1100,
+        "height": 1600,
+        "bytes": 1542993,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "a882d01988a2a528294949c996dd4cee48d702d9322318a758bdf57ab4907c46"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 465,
+          "path": "./media/web/aperfeicoamentos-visagismo-expert-320.webp",
+          "bytes": 15156,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 931,
+          "path": "./media/web/aperfeicoamentos-visagismo-expert-640.webp",
+          "bytes": 37248,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 1396,
+          "path": "./media/web/aperfeicoamentos-visagismo-expert-960.webp",
+          "bytes": 63530,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/aperfeicoamentos-visagismo-expert-640.webp"
+    },
+    {
+      "source": "./media/trilhas/elise.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 1524965,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "bcaa502badfdb355a1a4d35e557802618bc7d517477b68ee1082a1ec213c1180"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-elise-320.webp",
+          "bytes": 11618,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-elise-640.webp",
+          "bytes": 32988,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-elise-960.webp",
+          "bytes": 53066,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-elise-640.webp"
+    },
+    {
+      "source": "./media/trilhas/majestic.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 1504195,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "32304b36af96fd7e4b262ffadff86216bf7af1a985bd0b6bd93b190325f720a4"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-majestic-320.webp",
+          "bytes": 13120,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-majestic-640.webp",
+          "bytes": 38484,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-majestic-960.webp",
+          "bytes": 67240,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-majestic-640.webp"
+    },
+    {
+      "source": "./media/trilhas/merliah.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 1508406,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "eaab3a875fae89909474fd467b07d69757d30a4fedaee09f63aaab39f879439b"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-merliah-320.webp",
+          "bytes": 12530,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-merliah-640.webp",
+          "bytes": 31502,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-merliah-960.webp",
+          "bytes": 49428,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-merliah-640.webp"
+    },
+    {
+      "source": "./media/trilhas/karma.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 1567217,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "a92b8384193ce2cade93845190cc69fee1c72203e04f2f59c0d1696ea42757eb"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-karma-320.webp",
+          "bytes": 11044,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-karma-640.webp",
+          "bytes": 31466,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-karma-960.webp",
+          "bytes": 52394,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-karma-640.webp"
+    },
+    {
+      "source": "./media/trilhas/fox-strip.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 1647009,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "2083ede1d49088ba95374a3d7f8faf3dbc0cefd13444f04c726a315a30ad46c1"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-fox-strip-320.webp",
+          "bytes": 12216,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-fox-strip-640.webp",
+          "bytes": 39522,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-fox-strip-960.webp",
+          "bytes": 73930,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-fox-strip-640.webp"
+    },
+    {
+      "source": "./media/trilhas/delineado.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 1489071,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "d6e4474652ca5649e31805070e964b6b1e884aa15aed4327f56f8171809abf7c"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-delineado-320.webp",
+          "bytes": 12128,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-delineado-640.webp",
+          "bytes": 35260,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-delineado-960.webp",
+          "bytes": 59324,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-delineado-640.webp"
+    },
+    {
+      "source": "./media/trilhas/fox-eyes.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 1483026,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "80d74c1d75d122e16fac0feb08f0c6a881530f2bcc779e9a2155e16660f1e3be"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-fox-eyes-320.webp",
+          "bytes": 13136,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-fox-eyes-640.webp",
+          "bytes": 39486,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-fox-eyes-960.webp",
+          "bytes": 65544,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-fox-eyes-640.webp"
+    },
+    {
+      "source": "./media/trilhas/feiticeira.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 1555257,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "d49d32c7eeb0d48cfb69445b221e5e346719d5d425a34056dd488e6dd5a8172a"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-feiticeira-320.webp",
+          "bytes": 11670,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-feiticeira-640.webp",
+          "bytes": 30546,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-feiticeira-960.webp",
+          "bytes": 51888,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-feiticeira-640.webp"
+    },
+    {
+      "source": "./media/trilhas/felina.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 1655315,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "018ab65c186306e95cf785ec70bc26d40c88d91632c8d73a74993e0cca73aa10"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-felina-320.webp",
+          "bytes": 15322,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-felina-640.webp",
+          "bytes": 50992,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-felina-960.webp",
+          "bytes": 87634,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-felina-640.webp"
+    },
+    {
+      "source": "./media/trilhas/loren.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 1508035,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "aada2e16acbb33f53ee129d31d18c9e8e2dff528d74cdd0e9f7ead7d9a2bce2c"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-loren-320.webp",
+          "bytes": 12562,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-loren-640.webp",
+          "bytes": 31640,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-loren-960.webp",
+          "bytes": 52548,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-loren-640.webp"
+    },
+    {
+      "source": "./media/trilhas/sugar.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 1761011,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "d9e5a15d7df0b97c774aa0e633272a0565a5c38caa7c5ab2ce55e6334e658eb3"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-sugar-320.webp",
+          "bytes": 12448,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-sugar-640.webp",
+          "bytes": 33786,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-sugar-960.webp",
+          "bytes": 56546,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-sugar-640.webp"
+    },
+    {
+      "source": "./media/trilhas/sweet.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 1450533,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "2daa36e753f4015b39cd1b10d99ae2018369562d677b4ee1c1de28de9f392799"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-sweet-320.webp",
+          "bytes": 10646,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-sweet-640.webp",
+          "bytes": 24266,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-sweet-960.webp",
+          "bytes": 39514,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-sweet-640.webp"
+    },
+    {
+      "source": "./media/trilhas/divine.png",
+      "role": "card",
+      "usageCount": 1,
+      "original": {
+        "width": 1000,
+        "height": 1000,
+        "bytes": 1653240,
+        "format": "png",
+        "hasAlpha": false,
+        "sha256": "f2b468f701653b0a5cd8f82fc0f04f304d52b5ae808edb493ab40b8fe901dd63"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 320,
+          "path": "./media/web/trilhas-divine-320.webp",
+          "bytes": 13138,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 640,
+          "path": "./media/web/trilhas-divine-640.webp",
+          "bytes": 41206,
+          "hasAlpha": false
+        },
+        {
+          "width": 960,
+          "height": 960,
+          "path": "./media/web/trilhas-divine-960.webp",
+          "bytes": 76590,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/trilhas-divine-640.webp"
+    },
+    {
+      "source": "./media/geovana-suporte.jpg",
+      "role": "support",
+      "usageCount": 1,
+      "original": {
+        "width": 800,
+        "height": 1200,
+        "bytes": 82187,
+        "format": "jpeg",
+        "hasAlpha": false,
+        "sha256": "1e0f13f770ba567c076975d9893918c7d952373d95977a1738a83f5e7ffd4c98"
+      },
+      "variants": [
+        {
+          "width": 320,
+          "height": 480,
+          "path": "./media/web/support-geovana-suporte-320.webp",
+          "bytes": 6844,
+          "hasAlpha": false
+        },
+        {
+          "width": 640,
+          "height": 960,
+          "path": "./media/web/support-geovana-suporte-640.webp",
+          "bytes": 16056,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/support-geovana-suporte-640.webp"
+    },
+    {
+      "source": "./media/lashx-premiacao.jpg",
+      "role": "graduation",
+      "usageCount": 1,
+      "original": {
+        "width": 6720,
+        "height": 4480,
+        "bytes": 12284375,
+        "format": "jpeg",
+        "hasAlpha": false,
+        "sha256": "0b0da74aff51fb4b0e0d662f57ec99986271992f90b2fafde3c71926c07961f7"
+      },
+      "variants": [
+        {
+          "width": 640,
+          "height": 427,
+          "path": "./media/web/graduation-lashx-premiacao-640.webp",
+          "bytes": 54448,
+          "hasAlpha": false
+        },
+        {
+          "width": 1280,
+          "height": 853,
+          "path": "./media/web/graduation-lashx-premiacao-1280.webp",
+          "bytes": 135930,
+          "hasAlpha": false
+        },
+        {
+          "width": 1920,
+          "height": 1280,
+          "path": "./media/web/graduation-lashx-premiacao-1920.webp",
+          "bytes": 233104,
+          "hasAlpha": false
+        }
+      ],
+      "defaultPath": "./media/web/graduation-lashx-premiacao-1280.webp"
+    },
+    {
+      "source": "./media/lashxpert-icon.png",
+      "role": "favicon",
+      "usageCount": 1,
+      "original": {
+        "width": 1932,
+        "height": 1932,
+        "bytes": 63802,
+        "format": "png",
+        "hasAlpha": true,
+        "sha256": "2c4acf85a13fc9c550a20b682919f08a763daa8ffdd405ee30e89920c2dd1ef3"
+      },
+      "variants": [
+        {
+          "width": 64,
+          "height": 64,
+          "path": "./media/web/favicon-lashxpert-icon-64.png",
+          "bytes": 2874,
+          "hasAlpha": true
+        }
+      ],
+      "defaultPath": "./media/web/favicon-lashxpert-icon-64.png"
+    }
+  ]
+}
